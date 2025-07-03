@@ -84,7 +84,7 @@ nav img {
 
 /* hero section */
 .hero {
-    background-image: url(/Bytetera-SMS/images/Hero-bg.svg);
+    background-image: url('/Bytetera-SMS/images/Hero-bg.svg');
     background-position: center;
     background-size: cover;
     height: 80vh;
@@ -119,7 +119,7 @@ nav img {
 
 @media screen and (max-width: 600px) {
     .hero {
-        background-image: url(/Bytetera-SMS/images/Hero-bg-sm.svg);
+        background-image: url('/Bytetera-SMS/images/Hero-bg-sm.svg');
     }
     
 }
